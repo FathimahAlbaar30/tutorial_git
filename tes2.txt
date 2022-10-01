@@ -1,5 +1,9 @@
 # ggg
 
 ## dari surrya
+<<<<<<< HEAD
 
 ###branch master yaa
+=======
+### dari branch develop test
+>>>>>>> 2f5009d300cd5acf980c2951bf35867a1624adc0
